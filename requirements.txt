@@ -1,0 +1,9 @@
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.6.1
+hyperopt==0.2.7
+joblib==1.5.0
+matplotlib==3.9.4
+seaborn==0.13.2
+scipy==1.13.1
+threadpoolctl==3.6.0
